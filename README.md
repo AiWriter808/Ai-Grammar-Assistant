@@ -2,8 +2,10 @@
 Ai Grammar Assistant is here to revolutionize the way you write, making every word you pen down flawless and impactful. Whether you're drafting an important email, crafting an essay, or simply sharing your thoughts on social media, our app ensures your writing is clear, correct, and compelling.
 
 Why Ai Grammar Assistant?
-
-
+• Spot-On Corrections: Our advanced Ai technology doesn't just catch mistakes;it understands context,offering precise corrections for grammar, punctuation, and spelling errors.
+• Style and Tone Enhancements: Elevate your writing with suggestions that improve style and tone, ensuring your message is not only correct but also engaging.
+• Personalized Learning: With a record of your checks, learn from past mistakes, identify patterns, and receive customize tips to enhance your writing skills.
+• Instant Feedback: Get real-time corrections and suggestions as you type 
 # Marketing
 
 Unleash your creativitiy with AI Writer, the ultimate tool for generating and saving captivating text compositions! Whether you're creating poems, composing songs, or creating immersive stories, AI Writer serves as your creative companion, providing an array of features to ignite your imagination. 
