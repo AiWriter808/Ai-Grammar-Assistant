@@ -49,7 +49,7 @@ By using this Application, Users confirm to meet the following requirements:
 
 * There are no restrictions for Users in terms of being Consumers or Business Users;
 
-Content on this Application
+**Content on this Application**
 
 Unless where otherwise specified or clearly recognizable, all content available on this Application is owned or provided by the Owner or its licensors.
 
@@ -104,7 +104,7 @@ Nothing in these Terms excludes, restricts or modifies any guarantee, condition,
 
 **US Users**
 
-Disclaimer of Warranties
+**Disclaimer of Warranties**
 
 This Application is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by user from owner or through the Service will create any warranty not expressly stated herein.
 
@@ -116,7 +116,7 @@ The Service may become inaccessible or it may not function properly with Users�
 
 Federal law, some states, and other jurisdictions, do not allow the exclusion and limitations of certain implied warranties. The above exclusions may not apply to Users. This Agreement gives Users specific legal rights, and Users may also have other rights which vary from state to state. The disclaimers and exclusions under this agreement shall not apply to the extent prohibited by applicable law.
 
-Limitations of liability
+**Limitations of liability**
 
 To the maximum extent permitted by applicable law, in no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for
 
@@ -134,7 +134,7 @@ This limitation of liability section shall apply to the fullest extent permitted
 
 Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, therefore the above limitations or exclusions may not apply to User. The terms give User specific legal rights, and User may also have other rights which vary from jurisdiction to jurisdiction. The disclaimers, exclusions, and limitations of liability under the terms shall not apply to the extent prohibited by applicable law.
 
-Indemnification
+**Indemnification**
 
 The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from
 
@@ -148,7 +148,7 @@ any content that is submitted from User’s account, including third party acces
 
 **Common provisions**
 
-No Waiver
+**No Waiver**
 
 The Owner’s failure to assert any right or provision under these Terms shall not constitute a waiver of any such right or provision. No waiver shall be considered a further or continuing waiver of such term or any other term.
 
