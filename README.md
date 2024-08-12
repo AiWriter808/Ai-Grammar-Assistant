@@ -1,4 +1,7 @@
 # Introducing AI Grammar Assist - Your Ultimate Writing Companion!
+Ai Grammar Assistant is here to revolutionize the way you write, making every word you pen down flawless and impactful. Whether you're drafting an important email, crafting an essay, or simply sharing your thoughts on social media, our app ensures your writing is clear, correct, and compelling.
+
+Why Ai Grammar Assistant?
 
 
 # Marketing
