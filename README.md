@@ -47,7 +47,7 @@ Single or additional conditions of use or access may apply in specific scenarios
 
 By using this Application, Users confirm to meet the following requirements:
 
-# There are no restrictions for Users in terms of being Consumers or Business Users;
+* There are no restrictions for Users in terms of being Consumers or Business Users;
 
 Content on this Application
 
