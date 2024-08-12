@@ -81,15 +81,15 @@ Users are solely responsible for making sure that their use of this Application 
 
 Therefore, the Owner reserves the right to take any appropriate measure to protect its legitimate interests including by denying Users access to this Application or the Service, terminating contracts, reporting any misconduct performed through this Application or the Service to the competent authorities – such as judicial or administrative authorities - whenever Users engage or are suspected to engage in any of the following activities:
 
-# violate laws, regulations and/or these Terms;
-# infringe any third-party rights;
-# considerably impair the Owner’s legitimate interests;
-# offend the Owner or any third party.
+* violate laws, regulations and/or these Terms;
+* infringe any third-party rights;
+* considerably impair the Owner’s legitimate interests;
+* offend the Owner or any third party.
 
 **API usage terms**
 Users may access their data relating to this Application via the Application Program Interface (API). Any use of the API, including use of the API through a third-party product/service that accesses this Application, is bound by these Terms and, in addition, by the following specific terms:
 
-# the User expressly understands and agrees that the Owner bears no responsibility and shall not be held liable for any damages or losses resulting from the User’s use of the API or their use of any third-party products/services that access data through the API.
+* the User expressly understands and agrees that the Owner bears no responsibility and shall not be held liable for any damages or losses resulting from the User’s use of the API or their use of any third-party products/services that access data through the API.
 
 **Liability and indemnification**
 
@@ -117,15 +117,15 @@ Limitations of liability
 
 To the maximum extent permitted by applicable law, in no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for
 
-# any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the Service; and
-# any damage, loss or injury resulting from hacking, tampering or other unauthorized access or use of the Service or User account or the information contained therein;
-# any errors, mistakes, or inaccuracies of content;
-# personal injury or property damage, of any nature whatsoever, resulting from User access to or use of the Service;
-# any unauthorized access to or use of the Owner’s secure servers and/or any and all personal information stored therein;
-# any interruption or cessation of transmission to or from the Service;
-# any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Service;
-# any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Service; and/or
-# the defamatory, offensive, or illegal conduct of any User or third party. In no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount paid by User to the Owner hereunder in the preceding 12 months, or the period of duration of this agreement between the Owner and User, whichever is shorter.
+* any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the Service; and
+* any damage, loss or injury resulting from hacking, tampering or other unauthorized access or use of the Service or User account or the information contained therein;
+* any errors, mistakes, or inaccuracies of content;
+* personal injury or property damage, of any nature whatsoever, resulting from User access to or use of the Service;
+* any unauthorized access to or use of the Owner’s secure servers and/or any and all personal information stored therein;
+* any interruption or cessation of transmission to or from the Service;
+* any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Service;
+* any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Service; and/or
+* the defamatory, offensive, or illegal conduct of any User or third party. In no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount paid by User to the Owner hereunder in the preceding 12 months, or the period of duration of this agreement between the Owner and User, whichever is shorter.
 
 This limitation of liability section shall apply to the fullest extent permitted by law in the applicable jurisdiction whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if company has been advised of the possibility of such damage.
 
@@ -135,13 +135,13 @@ Indemnification
 
 The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from
 
-User’s use of and access to the Service, including any data or content transmitted or received by User;
-User’s violation of these terms, including, but not limited to, User’s breach of any of the representations and warranties set forth in these terms;
-User’s violation of any third-party rights, including, but not limited to, any right of privacy or intellectual property rights;
-User’s violation of any statutory law, rule, or regulation;
+* User’s use of and access to the Service, including any data or content transmitted or received by User;
+* User’s violation of these terms, including, but not limited to, User’s breach of any of the representations and warranties set forth in these terms;
+* User’s violation of any third-party rights, including, but not limited to, any right of privacy or intellectual property rights;
+* User’s violation of any statutory law, rule, or regulation;
 any content that is submitted from User’s account, including third party access with User’s unique username, password or other security measure, if applicable, including, but not limited to, misleading, false, or inaccurate information;
-User’s willful misconduct; or
-statutory provision by User or its affiliates, officers, directors, agents, co-branders, partners, suppliers and employees to the extent allowed by applicable law.
+* User’s willful misconduct; or
+* statutory provision by User or its affiliates, officers, directors, agents, co-branders, partners, suppliers and employees to the extent allowed by applicable law.
 
 **Common provisions**
 
