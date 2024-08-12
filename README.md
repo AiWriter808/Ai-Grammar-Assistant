@@ -9,11 +9,11 @@ Why AI Grammar Assistant?
 * Confidence Communication: Write confidently in any setting - academic, professional, or casual. Ai Grammar Assistant has got your back.
 
 **Features:**
-• Comprehensive Grammar, Punctuation, and Spelling Checks: Say goodbye to typos and grammatical errors.
-• Style and Tone Suggestions: Improve readability and engagement with smart suggestions.
-• Record Keeping: Track your progress and learn from past errors.
-• Customize Learning Tips: Receive tips based on your unique writing patterns.
-• Seamless Intergration: Works where you do - emails, documents, social media, and more.
+* Comprehensive Grammar, Punctuation, and Spelling Checks: Say goodbye to typos and grammatical errors.
+* Style and Tone Suggestions: Improve readability and engagement with smart suggestions.
+* Record Keeping: Track your progress and learn from past errors.
+* Customize Learning Tips: Receive tips based on your unique writing patterns.
+* Seamless Intergration: Works where you do - emails, documents, social media, and more.
 
 AI Grammar Assistant is perfect for students, professionals, writers, and anyone looking to polish their writing. It's like having a personal editor and writing coach available 24/7.
 
