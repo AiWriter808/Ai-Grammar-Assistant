@@ -70,11 +70,13 @@ Where explicitly stated on this Application, the User may download, copy and/or 
 Any applicable statutory limitation or exception to copyright shall stay unaffected.
 
 **Access to external resources**
+
 Through this Application Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.
 
 Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.
 
 **Acceptable use**
+
 This Application and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
 
 Users are solely responsible for making sure that their use of this Application and/or the Service violates no applicable law, regulations or third-party rights.
@@ -87,6 +89,7 @@ Therefore, the Owner reserves the right to take any appropriate measure to prote
 * offend the Owner or any third party.
 
 **API usage terms**
+
 Users may access their data relating to this Application via the Application Program Interface (API). Any use of the API, including use of the API through a third-party product/service that accesses this Application, is bound by these Terms and, in addition, by the following specific terms:
 
 * the User expressly understands and agrees that the Owner bears no responsibility and shall not be held liable for any damages or losses resulting from the User’s use of the API or their use of any third-party products/services that access data through the API.
